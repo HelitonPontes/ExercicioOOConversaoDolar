@@ -1,0 +1,13 @@
+C:\Users\Heliton\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\bin\Debug\ExercicioOOConversaoDolar.exe.config
+C:\Users\Heliton\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\bin\Debug\ExercicioOOConversaoDolar.exe
+C:\Users\Heliton\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\bin\Debug\ExercicioOOConversaoDolar.pdb
+C:\Users\Heliton\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\obj\Debug\ExercicioOOConversaoDolar.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\obj\Debug\ExercicioOOConversaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\Heliton\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\obj\Debug\ExercicioOOConversaoDolar.exe
+C:\Users\Heliton\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\obj\Debug\ExercicioOOConversaoDolar.pdb
+C:\Users\Heliton\Desktop\Projetos\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\bin\Debug\ExercicioOOConversaoDolar.exe.config
+C:\Users\Heliton\Desktop\Projetos\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\bin\Debug\ExercicioOOConversaoDolar.exe
+C:\Users\Heliton\Desktop\Projetos\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\bin\Debug\ExercicioOOConversaoDolar.pdb
+C:\Users\Heliton\Desktop\Projetos\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\obj\Debug\ExercicioOOConversaoDolar.csprojAssemblyReference.cache
+C:\Users\Heliton\Desktop\Projetos\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\obj\Debug\ExercicioOOConversaoDolar.exe
+C:\Users\Heliton\Desktop\Projetos\source\repos\ExercicioOOConversaoDolar\ExercicioOOConversaoDolar\obj\Debug\ExercicioOOConversaoDolar.pdb
